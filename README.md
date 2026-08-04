@@ -10,7 +10,7 @@ How we use it. Solely to provide the app's features: generating guides, powering
 
 Third-party processors. Supabase (data storage & authentication), Anthropic (AI processing), ElevenLabs (voice processing), RevenueCat (purchase management), Apple (payments).
 
-Your rights. You can delete your account and all associated data at any time in My Account → Profile → Delete Account. Questions or requests: [your email].
+Your rights. You can delete your account and all associated data at any time in My Account → Profile → Delete Account. Questions or requests: support@builditwithbubba.com.
 
 Children. The app is not directed at children under 13.
 
